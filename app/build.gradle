@@ -10,8 +10,8 @@ android {
         applicationId "com.volcengine.update"
         minSdkVersion MIN_SDK_VERSION
         targetSdkVersion TARGET_SDK_VERSION
-        versionCode 1710
-        versionName "1.7.1"
+        versionCode 1720
+        versionName "1.7.2"
 
     }
 

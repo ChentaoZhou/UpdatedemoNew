@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest package="com.volcengine.update"
-    android:versionCode="1588"
-    android:versionName="1.5.8"
+    android:versionCode="1720"
+    android:versionName="1.7.2"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -20,7 +20,7 @@
 
         <meta-data
             android:name="UPDATE_VERSION_CODE"
-            android:value="1710"/>
+            android:value="1720"/>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
