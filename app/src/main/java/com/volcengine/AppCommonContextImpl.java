@@ -64,7 +64,6 @@ public class AppCommonContextImpl extends AbsAppCommonContext {
     /**把下面这个注释还原就从BOE环境切换到了POC环境*/
     @Override
     public String getCustomUrl() {
-        return PUBLIC_BOE;              //这个是BOE的下发端
         return PRIVATE_QINGDAO_BOE;    //这个是青岛机房POC的下发端
     }
 }
