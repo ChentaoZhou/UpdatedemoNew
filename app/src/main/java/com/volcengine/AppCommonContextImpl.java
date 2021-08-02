@@ -35,12 +35,12 @@ public class AppCommonContextImpl extends AbsAppCommonContext {
     public int getUpdateVersionCode() {
 //        return Integer.parseInt(AppUtils.getVersionName(sBaseContext));
 
-        return 1700;
+        return 1710;
     }
 
     @Override
     public String getManifestVersionName() {
-        return "1.7.0";
+        return "1.7.1";
     }
 
     @Override
