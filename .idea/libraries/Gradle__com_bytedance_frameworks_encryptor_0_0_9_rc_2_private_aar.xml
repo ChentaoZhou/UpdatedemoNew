@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bytedance.frameworks:encryptor:0.0.9-rc.2-private@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/63e61fb1f7718beeae0fc69b8bf2aef8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/63e61fb1f7718beeae0fc69b8bf2aef8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

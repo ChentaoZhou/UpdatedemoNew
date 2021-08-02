@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.volcengine.onekit:onekit:0.0.1-rc.15@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5532866a7a7cf59436b920c7b120868a/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5532866a7a7cf59436b920c7b120868a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

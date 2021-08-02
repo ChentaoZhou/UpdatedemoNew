@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bytedance.frameworks.baselib:utility:2.0.11@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/eacadaaec6acfaf90403237c09d2452c/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/eacadaaec6acfaf90403237c09d2452c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -20,7 +20,7 @@
 
         <meta-data
             android:name="UPDATE_VERSION_CODE"
-            android:value="2200"/>
+            android:value="1700"/>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

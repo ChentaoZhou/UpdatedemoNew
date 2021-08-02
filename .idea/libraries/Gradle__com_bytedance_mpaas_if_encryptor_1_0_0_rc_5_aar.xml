@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bytedance.mpaas:if_encryptor:1.0.0-rc.5@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/32d7ca6eaf76b2a60057d35ec9af708e/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/32d7ca6eaf76b2a60057d35ec9af708e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.volcengine.services:update-api:1.0.0-rc.11@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/645adeb01767d6356efc7664443597d9/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/645adeb01767d6356efc7664443597d9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/645adeb01767d6356efc7664443597d9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
