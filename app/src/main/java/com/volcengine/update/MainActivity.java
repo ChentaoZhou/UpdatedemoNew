@@ -97,10 +97,6 @@ public class MainActivity extends AppCompatActivity {
                 .setNotifyIcon(drawableRes)
                 .setFormalAuthority(authority)
                 .setUpdateStrategyInfo(updateStrategyInfo)
-                .canAlphaBgDownload(false)
-                .isLocalApp(false)
-                .updateLocalStrategy(updateLocalStrategy)
-                .localAppPackageName("com.ss.android.mars.local")
                 .build();
 
     }

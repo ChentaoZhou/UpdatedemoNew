@@ -32,25 +32,8 @@ public class AppCommonContextImpl extends AbsAppCommonContext {
     }
 
     @Override
-    public int getUpdateVersionCode() {
-//        return Integer.parseInt(AppUtils.getVersionName(sBaseContext));
-
-        return 1740;
-    }
-
-    @Override
-    public String getManifestVersionName() {
-        return "1.7.4";
-    }
-
-    @Override
     public String getCity() {
         return "Shanghai";
-    }
-
-    @Override
-    public String getPackageName(){
-        return "com.volcengine.update";
     }
 
     @Override
