@@ -29,7 +29,8 @@ public class AppCommonContextImpl extends AbsAppCommonContext {
     public String getDeviceId() {
 //        DeviceWrapper deviceService = new DeviceWrapper();
 //        return deviceService.getDeviceID();
-        return "2312678";
+
+        return "679324334";
     }
 
     @Override
@@ -41,8 +42,8 @@ public class AppCommonContextImpl extends AbsAppCommonContext {
     public Map<String, String> getCustomKV() {
         Map<String, String> customMap = new HashMap<>();
         customMap.put("user_id", "0000001");
-        customMap.put("user_department", "deppon-delivery");
-        customMap.put("user_role", "CTO");
+        customMap.put("user_department", "DP09105");
+        customMap.put("user_role", "00010002");
         return customMap;
     }
     /**把下面这个注释还原就从BOE环境切换到了POC环境*/
