@@ -27,8 +27,9 @@ public class AppCommonContextImpl extends AbsAppCommonContext {
 
     @Override
     public String getDeviceId() {
-        DeviceWrapper deviceService = new DeviceWrapper();
-        return deviceService.getDeviceID();
+//        DeviceWrapper deviceService = new DeviceWrapper();
+//        return deviceService.getDeviceID();
+        return "2312678";
     }
 
     @Override
