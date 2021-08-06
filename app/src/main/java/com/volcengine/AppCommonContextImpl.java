@@ -7,7 +7,12 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class AppCommonContextImpl extends AbsAppCommonContext {
-    private static final String PRIVATE_QINGDAO_BOE = "https://poc-api.vemarsdev.com/v1/gray_release/package";
+    private static final String HOST_ADDRESS = "https://poc-api.vemarsdev.com/v1/gray_release/package";
+
+    @Override
+    public String getCustomUrl() {
+        return HOST_ADDRESS;    //这个是青岛机房POC的下发端
+    }
 
     @Override
     public Context getContext() {
@@ -45,10 +50,5 @@ public class AppCommonContextImpl extends AbsAppCommonContext {
         customMap.put("user_department", "DP09105");
         customMap.put("user_role", "00010002");
         return customMap;
-    }
-    /**把下面这个注释还原就从BOE环境切换到了POC环境*/
-    @Override
-    public String getCustomUrl() {
-        return PRIVATE_QINGDAO_BOE;    //这个是青岛机房POC的下发端
     }
 }

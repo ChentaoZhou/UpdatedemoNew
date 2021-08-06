@@ -7,10 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f1cdf28-a1e9-41e5-b601-f8828c4ababd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UpdateDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/onekit-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/onekit-config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/volcengine/AppCommonContextImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/volcengine/AppCommonContextImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,11 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ve_mars_trial_devops" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectConfigurationFiles">
@@ -207,9 +211,17 @@
       <screen x="-64" y="-1080" width="1920" height="1080" />
     </state>
     <state x="411" y="-965" key="CommitChangelistDialog2/-64.-1080.1920.1080/0.0.1792.1120@-64.-1080.1920.1080" timestamp="1628230356014" />
+    <state x="36" y="-980" width="1720" height="880" key="DiffContextDialog" timestamp="1628231719731">
+      <screen x="-64" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="36" y="-980" width="1720" height="880" key="DiffContextDialog/-64.-1080.1920.1080/0.0.1792.1120@-64.-1080.1920.1080" timestamp="1628231719731" />
     <state x="541" y="-813" key="RollbackChangesDialog" timestamp="1628230363123">
       <screen x="-64" y="-1080" width="1920" height="1080" />
     </state>
     <state x="541" y="-813" key="RollbackChangesDialog/-64.-1080.1920.1080/0.0.1792.1120@-64.-1080.1920.1080" timestamp="1628230363123" />
+    <state x="556" y="-799" key="VcsDiffUtil.ChangesDialog" timestamp="1628231709868">
+      <screen x="-64" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="556" y="-799" key="VcsDiffUtil.ChangesDialog/-64.-1080.1920.1080/0.0.1792.1120@-64.-1080.1920.1080" timestamp="1628231709868" />
   </component>
 </project>
