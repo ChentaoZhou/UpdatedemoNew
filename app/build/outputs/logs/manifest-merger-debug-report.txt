@@ -1,390 +1,390 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-42:12
-MERGED from [com.google.android.material:material:1.3.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/203b97beac3572e9d662199fcb59387b/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/6d5e8b9ec662c77de429fb5bcc87fb57/AndroidManifest.xml:2:1-11:12
-MERGED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:2:1-54:12
-MERGED from [com.volcengine.mars:utility:0.0.1-rc.4] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/0063eb21d52222facf420fa475765980/AndroidManifest.xml:2:1-11:12
-MERGED from [com.airbnb.android:lottie:3.7.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/22e5213c161ca0e37f4055b574afc6b9/AndroidManifest.xml:2:1-11:12
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:2:1-38:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/7083033def1df1c2e8a788d4c6a8458f/AndroidManifest.xml:17:1-24:12
-MERGED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/5532866a7a7cf59436b920c7b120868a/AndroidManifest.xml:2:1-20:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/e3d5410b5699d93cdb26d97c1933afd7/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/102f7b95f941ed0a0ec12ddd40f750b1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/a6bbae4238b74b54def7b3d26aeaa05c/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1e080e97bc51ac4ae7985b25654aa7fa/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/dd7f96c7efda534bfdaa4b90d4435a59/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/40e9bd77f65d25fac10a6d0e3564a4f3/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/4c0a7363f4b0eb20ed63eb9e50e41e29/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/a61b81cc4061fffd28fea8655fc9b03b/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/251c0f5db6e5da0f80a424807d3ea7a1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/33b3436a668f598538dfd7954631f51e/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/5de19521ab8e132485c501cbed4acdf9/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/2ff47ddebfd50007b8a35772e62cce17/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f7ae81aa0fa60f3cf2c0870b81d01fa3/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/64b080744f35643f0bdbb87659030361/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/cf7630f2df4fb894aaa7c90255e12f0d/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/7c8019e8d3d6a6e80cfe669afef911b1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/00093554288912a9101b8db61d095290/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.3.2] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/9de971f4da9249444574aa77ff01a387/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/a4bb5dccc95f5ec7032e260cbbff383c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.volcengine.services:update-api:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/645adeb01767d6356efc7664443597d9/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/c828f8bc69577a0d8b0d92886f794420/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1d1d77a06fecf83749b02ad320dac0a4/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/cef5cb8d69a412508603c2b40b44fd54/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/ed6865fca19c5f63185f081bdbc95aee/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/fd28c2349333066e80f672fbe9eac27c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/8b8b36ccdc0129e56fe723046c4a98e8/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/44ed1d723f032b7b8f353981cc21a713/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/8b8b71844440316fc34ff79e36171b41/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/4d32eed9600ea711650abef2a7e28569/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/d7f664871ad242805e630324b936876c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/237f893965580a7d442acca82e038dd3/AndroidManifest.xml:17:1-24:12
-MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:2:1-31:12
-MERGED from [com.bytedance.frameworks:encryptor:0.0.9-rc.2-private] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/63e61fb1f7718beeae0fc69b8bf2aef8/AndroidManifest.xml:2:1-11:12
-MERGED from [com.bytedance.mpaas:if_encryptor:1.0.0-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/32d7ca6eaf76b2a60057d35ec9af708e/AndroidManifest.xml:2:1-11:12
-MERGED from [com.bytedance.frameworks.baselib:utility:2.0.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/eacadaaec6acfaf90403237c09d2452c/AndroidManifest.xml:2:1-7:12
-INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-42:12
+ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/67c9aafa5f0e63b4bb7be6642e94e916/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/dd0739eb74d3012d4a1f79a7ff78b84c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:2:1-54:12
+MERGED from [com.volcengine.mars:utility:0.0.1-rc.4] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/bd567c4cd54713e16207b63f0ff20e16/AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.7.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/5e86bcc1b7c105da08909fd2f7adefe2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6378cb1724d2984a7bc2a865c81b1133/AndroidManifest.xml:17:1-24:12
+MERGED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c1cffffcfa422ed19541a90bb94e7c0a/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/181872f5cec6f4fc70f90f1b540982a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/78c865e1f96a9d828221e80b19b4a8bb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/479c5536cbc0033d716c87c6b864accd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/d46f595efd4aae7810800d58dc7e5847/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/ac5c0d00a70612ef878651747bf499f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/d66eccd314cb0a1058bea90bb82fb679/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/93433f863127676a8fe0a688457a9220/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/046def38e0f81e5d16274925ab5491b9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/7428f6065d2360c101958aaa388d9814/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6763a1f8dbd6c531a76eeea2ce43e303/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/350d8c4288ad29bfcaf5dd4975a381e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/e41858ade1add4dcb64208861838965f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b953a063c582e97fa03692a317a876a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/1897bd9da3fc80e8b1ad0b74196a956d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/5b94a744075488c126edbd075968b0d3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6a9c2ba5616f0a929d0efa8ab59014a9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c6afb30ad8d8d392f9ab0512271fbfaf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/7cc59944fc89c90c298b04191e34ca8b/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/8d3d9aaf8e735dc6213faa8cfaf26842/AndroidManifest.xml:17:1-22:12
+MERGED from [com.volcengine.services:update-api:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/ca06b11ee8f25dcbcf429ce2d6d6ec17/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/fd514b14a087c20104216b670f7daa37/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/a7295fdde438d62736162ddb37576a8d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/4172ac367089cc70c438932e66ba4808/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/dff0edc38a678de193f224118d4c316f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/e8e3892a246b1b411a24a29a72d6e65b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/de4857eceb83f06f2e64d0bea58b2f1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/f5902d03575110d06dc0dfe865a1502a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c6eb63033b6aaea1f72b5fdb144507b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/392dd8a5f7abbc045e2edbdfb3f43044/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9cc960242cbae09e924d0d15d2ea0ada/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/ced6626e8e2c00e1f3d2b72e05d14ac0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:2:1-31:12
+MERGED from [com.bytedance.frameworks:encryptor:0.0.9-rc.2-private] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/a33fa216e7e927b0db7ad28ea22d8494/AndroidManifest.xml:2:1-11:12
+MERGED from [com.bytedance.mpaas:if_encryptor:1.0.0-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/4d5512574a0d93acae3831e399fce828/AndroidManifest.xml:2:1-11:12
+MERGED from [com.bytedance.frameworks.baselib:utility:2.0.11] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/cb719919eeb7ea58f6a30ce73f29eb15/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:11-42
-		INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:11-42
+		INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:4:5-32
-		INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:5:5-63
+		INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:3:5-31
-		INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:3:5-63
 uses-permission#android.permission.INTERNET
-ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:6:5-67
-MERGED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:11:5-67
-MERGED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:11:5-67
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:16:5-67
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:16:5-67
+ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:11:5-67
+MERGED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:11:5-67
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:16:5-67
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:16:5-67
 	android:name
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:7:5-79
-MERGED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:12:5-79
-MERGED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:12:5-79
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:15:5-79
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:15:5-79
-MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:9:5-79
-MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:9:5-79
+ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:12:5-79
+MERGED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:12:5-79
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:15:5-79
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:15:5-79
+MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:9:5-79
+MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:7:22-76
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:5:22-76
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:8:5-75
-MERGED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:13:5-75
-MERGED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:13:5-75
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:11:5-75
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:11:5-75
+ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:6:5-75
+MERGED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:13:5-75
+MERGED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:13:5-75
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:11:5-75
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:11:5-75
 	android:name
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:8:22-72
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:6:22-72
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:9:5-76
-MERGED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:14:5-76
-MERGED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:14:5-76
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:14:5-76
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:14:5-76
+ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:7:5-76
+MERGED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:14:5-76
+MERGED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:14:5-76
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:14:5-76
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:14:5-76
 	android:name
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:9:22-73
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:7:22-73
 application
-ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:11:5-40:19
-MERGED from [com.google.android.material:material:1.3.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/203b97beac3572e9d662199fcb59387b/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.3.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/203b97beac3572e9d662199fcb59387b/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/6d5e8b9ec662c77de429fb5bcc87fb57/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/6d5e8b9ec662c77de429fb5bcc87fb57/AndroidManifest.xml:9:5-20
-MERGED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:17:5-52:19
-MERGED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:17:5-52:19
-MERGED from [com.airbnb.android:lottie:3.7.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/22e5213c161ca0e37f4055b574afc6b9/AndroidManifest.xml:9:5-20
-MERGED from [com.airbnb.android:lottie:3.7.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/22e5213c161ca0e37f4055b574afc6b9/AndroidManifest.xml:9:5-20
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:18:5-36:19
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:18:5-36:19
-MERGED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/5532866a7a7cf59436b920c7b120868a/AndroidManifest.xml:11:5-18:19
-MERGED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/5532866a7a7cf59436b920c7b120868a/AndroidManifest.xml:11:5-18:19
-MERGED from [androidx.core:core:1.3.2] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/9de971f4da9249444574aa77ff01a387/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.2] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/9de971f4da9249444574aa77ff01a387/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/c828f8bc69577a0d8b0d92886f794420/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/c828f8bc69577a0d8b0d92886f794420/AndroidManifest.xml:24:5-25:19
-MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:11:5-29:19
-MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:11:5-29:19
+ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:9:5-38:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/67c9aafa5f0e63b4bb7be6642e94e916/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/67c9aafa5f0e63b4bb7be6642e94e916/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/dd0739eb74d3012d4a1f79a7ff78b84c/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/dd0739eb74d3012d4a1f79a7ff78b84c/AndroidManifest.xml:9:5-20
+MERGED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:17:5-52:19
+MERGED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:17:5-52:19
+MERGED from [com.airbnb.android:lottie:3.7.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/5e86bcc1b7c105da08909fd2f7adefe2/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.7.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/5e86bcc1b7c105da08909fd2f7adefe2/AndroidManifest.xml:9:5-20
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:18:5-36:19
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:18:5-36:19
+MERGED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c1cffffcfa422ed19541a90bb94e7c0a/AndroidManifest.xml:11:5-18:19
+MERGED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c1cffffcfa422ed19541a90bb94e7c0a/AndroidManifest.xml:11:5-18:19
+MERGED from [androidx.core:core:1.3.2] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/7cc59944fc89c90c298b04191e34ca8b/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/7cc59944fc89c90c298b04191e34ca8b/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/fd514b14a087c20104216b670f7daa37/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/fd514b14a087c20104216b670f7daa37/AndroidManifest.xml:24:5-25:19
+MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:11:5-29:19
+MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:11:5-29:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.2] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/9de971f4da9249444574aa77ff01a387/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.3.2] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/7cc59944fc89c90c298b04191e34ca8b/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:17:9-35
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:16:9-54
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:14:9-43
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:18:9-44
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:16:9-44
 	android:networkSecurityConfig
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:19:9-69
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:17:9-69
 	android:name
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:12:9-54
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:10:9-54
 meta-data#UPDATE_VERSION_CODE
-ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:21:9-23:35
+ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:19:9-21:35
 	android:value
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:23:13-33
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:21:13-33
 	android:name
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:22:13-47
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:20:13-47
 activity#com.volcengine.update.MainActivity
-ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:24:9-30:20
+ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:22:9-28:20
 	android:name
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:24:19-47
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:22:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:25:13-29:29
+ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:26:17-69
+ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:26:25-66
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:28:17-77
+ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:28:27-74
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:26:27-74
 provider#androidx.core.content.FileProvider
-ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:31:9-39:20
+ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:29:9-37:20
 	android:grantUriPermissions
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:34:13-47
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:32:13-47
 	android:authorities
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:32:13-58
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:30:13-58
 	android:exported
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:35:13-37
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:33:13-62
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:31:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:36:13-38:69
+ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:34:13-36:69
 	android:resource
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:37:17-50
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:35:17-50
 	android:name
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml:38:17-67
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml:36:17-67
 uses-sdk
-INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
-INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.3.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/203b97beac3572e9d662199fcb59387b/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.3.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/203b97beac3572e9d662199fcb59387b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/6d5e8b9ec662c77de429fb5bcc87fb57/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/6d5e8b9ec662c77de429fb5bcc87fb57/AndroidManifest.xml:5:5-7:41
-MERGED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:7:5-9:41
-MERGED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:7:5-9:41
-MERGED from [com.volcengine.mars:utility:0.0.1-rc.4] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/0063eb21d52222facf420fa475765980/AndroidManifest.xml:7:5-9:41
-MERGED from [com.volcengine.mars:utility:0.0.1-rc.4] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/0063eb21d52222facf420fa475765980/AndroidManifest.xml:7:5-9:41
-MERGED from [com.airbnb.android:lottie:3.7.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/22e5213c161ca0e37f4055b574afc6b9/AndroidManifest.xml:5:5-7:41
-MERGED from [com.airbnb.android:lottie:3.7.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/22e5213c161ca0e37f4055b574afc6b9/AndroidManifest.xml:5:5-7:41
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:7:5-9:41
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/7083033def1df1c2e8a788d4c6a8458f/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/7083033def1df1c2e8a788d4c6a8458f/AndroidManifest.xml:20:5-22:41
-MERGED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/5532866a7a7cf59436b920c7b120868a/AndroidManifest.xml:7:5-9:41
-MERGED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/5532866a7a7cf59436b920c7b120868a/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/e3d5410b5699d93cdb26d97c1933afd7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/e3d5410b5699d93cdb26d97c1933afd7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/102f7b95f941ed0a0ec12ddd40f750b1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/102f7b95f941ed0a0ec12ddd40f750b1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/a6bbae4238b74b54def7b3d26aeaa05c/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/a6bbae4238b74b54def7b3d26aeaa05c/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1e080e97bc51ac4ae7985b25654aa7fa/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1e080e97bc51ac4ae7985b25654aa7fa/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/dd7f96c7efda534bfdaa4b90d4435a59/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/dd7f96c7efda534bfdaa4b90d4435a59/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/40e9bd77f65d25fac10a6d0e3564a4f3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/40e9bd77f65d25fac10a6d0e3564a4f3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/4c0a7363f4b0eb20ed63eb9e50e41e29/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/4c0a7363f4b0eb20ed63eb9e50e41e29/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/a61b81cc4061fffd28fea8655fc9b03b/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/a61b81cc4061fffd28fea8655fc9b03b/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/251c0f5db6e5da0f80a424807d3ea7a1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/251c0f5db6e5da0f80a424807d3ea7a1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/33b3436a668f598538dfd7954631f51e/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/33b3436a668f598538dfd7954631f51e/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/5de19521ab8e132485c501cbed4acdf9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/5de19521ab8e132485c501cbed4acdf9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/2ff47ddebfd50007b8a35772e62cce17/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/2ff47ddebfd50007b8a35772e62cce17/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f7ae81aa0fa60f3cf2c0870b81d01fa3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f7ae81aa0fa60f3cf2c0870b81d01fa3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/64b080744f35643f0bdbb87659030361/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/64b080744f35643f0bdbb87659030361/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/cf7630f2df4fb894aaa7c90255e12f0d/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/cf7630f2df4fb894aaa7c90255e12f0d/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/7c8019e8d3d6a6e80cfe669afef911b1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/7c8019e8d3d6a6e80cfe669afef911b1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/00093554288912a9101b8db61d095290/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/00093554288912a9101b8db61d095290/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.3.2] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/9de971f4da9249444574aa77ff01a387/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.2] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/9de971f4da9249444574aa77ff01a387/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/a4bb5dccc95f5ec7032e260cbbff383c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/a4bb5dccc95f5ec7032e260cbbff383c/AndroidManifest.xml:20:5-44
-MERGED from [com.volcengine.services:update-api:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/645adeb01767d6356efc7664443597d9/AndroidManifest.xml:7:5-9:41
-MERGED from [com.volcengine.services:update-api:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/645adeb01767d6356efc7664443597d9/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/c828f8bc69577a0d8b0d92886f794420/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/c828f8bc69577a0d8b0d92886f794420/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1d1d77a06fecf83749b02ad320dac0a4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1d1d77a06fecf83749b02ad320dac0a4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/cef5cb8d69a412508603c2b40b44fd54/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/cef5cb8d69a412508603c2b40b44fd54/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/ed6865fca19c5f63185f081bdbc95aee/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/ed6865fca19c5f63185f081bdbc95aee/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/fd28c2349333066e80f672fbe9eac27c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/fd28c2349333066e80f672fbe9eac27c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/8b8b36ccdc0129e56fe723046c4a98e8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/8b8b36ccdc0129e56fe723046c4a98e8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/44ed1d723f032b7b8f353981cc21a713/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/44ed1d723f032b7b8f353981cc21a713/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/8b8b71844440316fc34ff79e36171b41/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/8b8b71844440316fc34ff79e36171b41/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/4d32eed9600ea711650abef2a7e28569/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/4d32eed9600ea711650abef2a7e28569/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/d7f664871ad242805e630324b936876c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/d7f664871ad242805e630324b936876c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/237f893965580a7d442acca82e038dd3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/237f893965580a7d442acca82e038dd3/AndroidManifest.xml:20:5-22:41
-MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:5:5-7:41
-MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:5:5-7:41
-MERGED from [com.bytedance.frameworks:encryptor:0.0.9-rc.2-private] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/63e61fb1f7718beeae0fc69b8bf2aef8/AndroidManifest.xml:7:5-9:41
-MERGED from [com.bytedance.frameworks:encryptor:0.0.9-rc.2-private] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/63e61fb1f7718beeae0fc69b8bf2aef8/AndroidManifest.xml:7:5-9:41
-MERGED from [com.bytedance.mpaas:if_encryptor:1.0.0-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/32d7ca6eaf76b2a60057d35ec9af708e/AndroidManifest.xml:7:5-9:41
-MERGED from [com.bytedance.mpaas:if_encryptor:1.0.0-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/32d7ca6eaf76b2a60057d35ec9af708e/AndroidManifest.xml:7:5-9:41
-MERGED from [com.bytedance.frameworks.baselib:utility:2.0.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/eacadaaec6acfaf90403237c09d2452c/AndroidManifest.xml:5:5-44
-MERGED from [com.bytedance.frameworks.baselib:utility:2.0.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/eacadaaec6acfaf90403237c09d2452c/AndroidManifest.xml:5:5-44
-INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
-INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/67c9aafa5f0e63b4bb7be6642e94e916/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/67c9aafa5f0e63b4bb7be6642e94e916/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/dd0739eb74d3012d4a1f79a7ff78b84c/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/dd0739eb74d3012d4a1f79a7ff78b84c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:7:5-9:41
+MERGED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:7:5-9:41
+MERGED from [com.volcengine.mars:utility:0.0.1-rc.4] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/bd567c4cd54713e16207b63f0ff20e16/AndroidManifest.xml:7:5-9:41
+MERGED from [com.volcengine.mars:utility:0.0.1-rc.4] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/bd567c4cd54713e16207b63f0ff20e16/AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:3.7.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/5e86bcc1b7c105da08909fd2f7adefe2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.7.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/5e86bcc1b7c105da08909fd2f7adefe2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:7:5-9:41
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6378cb1724d2984a7bc2a865c81b1133/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6378cb1724d2984a7bc2a865c81b1133/AndroidManifest.xml:20:5-22:41
+MERGED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c1cffffcfa422ed19541a90bb94e7c0a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c1cffffcfa422ed19541a90bb94e7c0a/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/181872f5cec6f4fc70f90f1b540982a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/181872f5cec6f4fc70f90f1b540982a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/78c865e1f96a9d828221e80b19b4a8bb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/78c865e1f96a9d828221e80b19b4a8bb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/479c5536cbc0033d716c87c6b864accd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/479c5536cbc0033d716c87c6b864accd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/d46f595efd4aae7810800d58dc7e5847/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/d46f595efd4aae7810800d58dc7e5847/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/ac5c0d00a70612ef878651747bf499f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/ac5c0d00a70612ef878651747bf499f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/d66eccd314cb0a1058bea90bb82fb679/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/d66eccd314cb0a1058bea90bb82fb679/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/93433f863127676a8fe0a688457a9220/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/93433f863127676a8fe0a688457a9220/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/046def38e0f81e5d16274925ab5491b9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/046def38e0f81e5d16274925ab5491b9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/7428f6065d2360c101958aaa388d9814/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/7428f6065d2360c101958aaa388d9814/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6763a1f8dbd6c531a76eeea2ce43e303/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6763a1f8dbd6c531a76eeea2ce43e303/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/350d8c4288ad29bfcaf5dd4975a381e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/350d8c4288ad29bfcaf5dd4975a381e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/e41858ade1add4dcb64208861838965f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/e41858ade1add4dcb64208861838965f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b953a063c582e97fa03692a317a876a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b953a063c582e97fa03692a317a876a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/1897bd9da3fc80e8b1ad0b74196a956d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/1897bd9da3fc80e8b1ad0b74196a956d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/5b94a744075488c126edbd075968b0d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/5b94a744075488c126edbd075968b0d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6a9c2ba5616f0a929d0efa8ab59014a9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6a9c2ba5616f0a929d0efa8ab59014a9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c6afb30ad8d8d392f9ab0512271fbfaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c6afb30ad8d8d392f9ab0512271fbfaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/7cc59944fc89c90c298b04191e34ca8b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/7cc59944fc89c90c298b04191e34ca8b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/8d3d9aaf8e735dc6213faa8cfaf26842/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/8d3d9aaf8e735dc6213faa8cfaf26842/AndroidManifest.xml:20:5-44
+MERGED from [com.volcengine.services:update-api:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/ca06b11ee8f25dcbcf429ce2d6d6ec17/AndroidManifest.xml:7:5-9:41
+MERGED from [com.volcengine.services:update-api:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/ca06b11ee8f25dcbcf429ce2d6d6ec17/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/fd514b14a087c20104216b670f7daa37/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/fd514b14a087c20104216b670f7daa37/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/a7295fdde438d62736162ddb37576a8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/a7295fdde438d62736162ddb37576a8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/4172ac367089cc70c438932e66ba4808/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/4172ac367089cc70c438932e66ba4808/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/dff0edc38a678de193f224118d4c316f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/dff0edc38a678de193f224118d4c316f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/e8e3892a246b1b411a24a29a72d6e65b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/e8e3892a246b1b411a24a29a72d6e65b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/de4857eceb83f06f2e64d0bea58b2f1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/de4857eceb83f06f2e64d0bea58b2f1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/f5902d03575110d06dc0dfe865a1502a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/f5902d03575110d06dc0dfe865a1502a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c6eb63033b6aaea1f72b5fdb144507b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c6eb63033b6aaea1f72b5fdb144507b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/392dd8a5f7abbc045e2edbdfb3f43044/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/392dd8a5f7abbc045e2edbdfb3f43044/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9cc960242cbae09e924d0d15d2ea0ada/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9cc960242cbae09e924d0d15d2ea0ada/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/ced6626e8e2c00e1f3d2b72e05d14ac0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/ced6626e8e2c00e1f3d2b72e05d14ac0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.bytedance.frameworks:encryptor:0.0.9-rc.2-private] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/a33fa216e7e927b0db7ad28ea22d8494/AndroidManifest.xml:7:5-9:41
+MERGED from [com.bytedance.frameworks:encryptor:0.0.9-rc.2-private] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/a33fa216e7e927b0db7ad28ea22d8494/AndroidManifest.xml:7:5-9:41
+MERGED from [com.bytedance.mpaas:if_encryptor:1.0.0-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/4d5512574a0d93acae3831e399fce828/AndroidManifest.xml:7:5-9:41
+MERGED from [com.bytedance.mpaas:if_encryptor:1.0.0-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/4d5512574a0d93acae3831e399fce828/AndroidManifest.xml:7:5-9:41
+MERGED from [com.bytedance.frameworks.baselib:utility:2.0.11] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/cb719919eeb7ea58f6a30ce73f29eb15/AndroidManifest.xml:5:5-44
+MERGED from [com.bytedance.frameworks.baselib:utility:2.0.11] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/cb719919eeb7ea58f6a30ce73f29eb15/AndroidManifest.xml:5:5-44
+INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
-		ADDED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/zhangchongli/UpdatedemoNew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bytedance/AndroidStudioProjects/UpdatedemoNew/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:15:5-81
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:12:5-81
-MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:12:5-81
+ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:15:5-81
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:12:5-81
+MERGED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:15:22-78
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:15:22-78
 activity#com.volcengine.mars.update.UpdateProgressActivity
-ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:18:9-20:52
+ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:18:9-20:52
 	android:screenOrientation
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:20:13-49
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:20:13-49
 	android:name
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:19:13-77
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:19:13-77
 service#com.ss.android.socialbase.appdownloader.DownloadHandlerService
-ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:22:9-98
+ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:22:9-98
 	android:name
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:22:18-95
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:22:18-95
 activity#com.ss.android.socialbase.appdownloader.view.DownloadTaskDeleteActivity
-ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:38:9-41:59
+ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:38:9-41:59
 	android:launchMode
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:40:13-44
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:40:13-44
 	android:theme
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:41:13-56
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:41:13-56
 	android:name
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:39:13-99
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:39:13-99
 activity#com.ss.android.socialbase.appdownloader.view.JumpUnknownSourceActivity
-ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:42:9-45:59
+ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:42:9-45:59
 	android:launchMode
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:44:13-44
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:44:13-44
 	android:theme
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:45:13-56
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:45:13-56
 	android:name
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:43:13-98
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:43:13-98
 service#com.ss.android.socialbase.appdownloader.RetryJobSchedulerService
-ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:47:9-51:72
+ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:47:9-51:72
 	android:enabled
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:49:13-35
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:49:13-35
 	android:exported
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:50:13-37
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:50:13-37
 	android:permission
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:51:13-69
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:51:13-69
 	android:name
-		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.11] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/1baf637aeaea4d7abc3c60c5467b7d19/AndroidManifest.xml:48:13-92
+		ADDED from [com.volcengine.services:update-impl:1.0.0-rc.12] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/b8446df8d6a5a6baaaf0211b6351be25/AndroidManifest.xml:48:13-92
 uses-permission#com.asus.msa.SupplementaryDID.ACCESS
-ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:13:5-76
+ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:13:5-76
 	android:name
-		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:13:22-73
+		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:13:22-73
 service#com.volcengine.onekit.component.ComponentDiscoveryService
-ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:19:9-28:19
+ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:19:9-28:19
 	android:exported
-		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:21:13-37
+		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:20:13-85
+		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:20:13-85
 meta-data#com.bytedance.applog.onekit.AnalyticsComponentRegistrar
-ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:22:13-24:86
+ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:22:13-24:86
 	android:value
-		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:24:17-83
+		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:24:17-83
 	android:name
-		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:23:17-87
+		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:23:17-87
 meta-data#com.bytedance.applog.onekit.DeviceComponentRegistrar
-ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:25:13-27:86
+ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:25:13-27:86
 	android:value
-		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:27:17-83
+		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:27:17-83
 	android:name
-		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:26:17-84
+		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:26:17-84
 activity#com.bytedance.applog.migrate.MigrateDetectorActivity
-ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:30:9-89
+ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:30:9-89
 	android:name
-		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:30:19-86
+		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:30:19-86
 receiver#com.bytedance.applog.collector.Collector
-ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:32:9-35:40
+ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:32:9-35:40
 	android:enabled
-		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:34:13-35
+		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:34:13-35
 	android:exported
-		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:35:13-37
+		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/f4494ee906f2cea7acde4af47061e932/AndroidManifest.xml:33:13-68
+		ADDED from [com.bytedance.applog:RangersAppLog-All-cn:6.2.1] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/6be17689230206c8540bf428d10a8a93/AndroidManifest.xml:33:13-68
 provider#com.volcengine.onekit.OneKitInitProvider
-ADDED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/5532866a7a7cf59436b920c7b120868a/AndroidManifest.xml:12:9-17:20
+ADDED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c1cffffcfa422ed19541a90bb94e7c0a/AndroidManifest.xml:12:9-17:20
 	android:authorities
-		ADDED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/5532866a7a7cf59436b920c7b120868a/AndroidManifest.xml:14:13-92
+		ADDED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c1cffffcfa422ed19541a90bb94e7c0a/AndroidManifest.xml:14:13-92
 	android:exported
-		ADDED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/5532866a7a7cf59436b920c7b120868a/AndroidManifest.xml:15:13-37
+		ADDED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c1cffffcfa422ed19541a90bb94e7c0a/AndroidManifest.xml:15:13-37
 	android:initOrder
-		ADDED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/5532866a7a7cf59436b920c7b120868a/AndroidManifest.xml:16:13-35
+		ADDED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c1cffffcfa422ed19541a90bb94e7c0a/AndroidManifest.xml:16:13-35
 	android:name
-		ADDED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/5532866a7a7cf59436b920c7b120868a/AndroidManifest.xml:13:13-68
+		ADDED from [com.volcengine.onekit:onekit:0.0.1-rc.15] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/c1cffffcfa422ed19541a90bb94e7c0a/AndroidManifest.xml:13:13-68
 service#com.ss.android.socialbase.downloader.downloader.IndependentProcessDownloadService
-ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:12:9-19:19
+ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:12:9-19:19
 	android:process
-		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:15:13-42
+		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:15:13-42
 	android:exported
-		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:14:13-37
+		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:13:13-109
+		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:13:13-109
 intent-filter#action:name:com.ss.android.socialbase.downloader.remote
-ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:16:13-18:29
+ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:16:13-18:29
 action#com.ss.android.socialbase.downloader.remote
-ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:17:17-86
+ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:17:17-86
 	android:name
-		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:17:25-83
+		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:17:25-83
 service#com.ss.android.socialbase.downloader.notification.DownloadNotificationService
-ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:20:9-113
+ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:20:9-113
 	android:name
-		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:20:18-110
+		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:20:18-110
 service#com.ss.android.socialbase.downloader.downloader.DownloadService
-ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:21:9-99
+ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:21:9-99
 	android:name
-		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:21:18-96
+		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:21:18-96
 service#com.ss.android.socialbase.downloader.impls.DownloadHandleService
-ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:22:9-100
+ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:22:9-100
 	android:name
-		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:22:18-97
+		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:22:18-97
 service#com.ss.android.socialbase.downloader.downloader.SqlDownloadCacheService
-ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:28:9-107
+ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:28:9-107
 	android:name
-		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/zhangchongli/.gradle/caches/transforms-2/files-2.1/35088e13153a8fa6c36f67ffea60f2ad/AndroidManifest.xml:28:18-104
+		ADDED from [com.bytedance.ies.social.base:downloader:1.3.3.6-rc.5] /Users/bytedance/.gradle/caches/transforms-2/files-2.1/9fb02bd65c889b6c0ca4b7a5614390aa/AndroidManifest.xml:28:18-104
