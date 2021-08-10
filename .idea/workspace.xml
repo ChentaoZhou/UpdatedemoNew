@@ -33,7 +33,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f1cdf28-a1e9-41e5-b601-f8828c4ababd" name="Default Changelist" comment="新的测试1820" />
+    <list default="true" id="3f1cdf28-a1e9-41e5-b601-f8828c4ababd" name="Default Changelist" comment="新的测试1820">
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
