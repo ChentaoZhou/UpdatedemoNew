@@ -33,15 +33,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f1cdf28-a1e9-41e5-b601-f8828c4ababd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3f1cdf28-a1e9-41e5-b601-f8828c4ababd" name="Default Changelist" comment="新的测试1820" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -270,17 +262,23 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="灰度新版2.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="灰度新版2.0.0" />
+    <MESSAGE value="新的测试1820" />
+    <MESSAGE value="1820test" />
+    <option name="LAST_COMMIT_MESSAGE" value="新的测试1820" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="411" y="-965" key="CommitChangelistDialog2" timestamp="1628232569610">
+    <state x="411" y="-965" key="CommitChangelistDialog2" timestamp="1628579111230">
       <screen x="-64" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="411" y="-965" key="CommitChangelistDialog2/-64.-1080.1920.1080/0.0.1792.1120@-64.-1080.1920.1080" timestamp="1628232569610" />
-    <state x="36" y="-980" width="1720" height="880" key="DiffContextDialog" timestamp="1628578610512">
+    <state x="411" y="-965" key="CommitChangelistDialog2/-64.-1080.1920.1080/0.0.1792.1120@-64.-1080.1920.1080" timestamp="1628579111230" />
+    <state x="36" y="-980" width="1720" height="880" key="DiffContextDialog" timestamp="1628579048561">
       <screen x="-64" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="36" y="-980" width="1720" height="880" key="DiffContextDialog/-64.-1080.1920.1080/0.0.1792.1120@-64.-1080.1920.1080" timestamp="1628578610512" />
+    <state x="36" y="-980" width="1720" height="880" key="DiffContextDialog/-64.-1080.1920.1080/0.0.1792.1120@-64.-1080.1920.1080" timestamp="1628579048561" />
+    <state x="-64" y="-881" key="GitRewordDialog" timestamp="1628579152989">
+      <screen x="-64" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-64" y="-881" key="GitRewordDialog/-64.-1080.1920.1080/0.0.1792.1120@-64.-1080.1920.1080" timestamp="1628579152989" />
     <state x="541" y="-813" key="RollbackChangesDialog" timestamp="1628230363123">
       <screen x="-64" y="-1080" width="1920" height="1080" />
     </state>

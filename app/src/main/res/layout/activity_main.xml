@@ -14,6 +14,6 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="version: 2.0.0"/>
+        android:text="version: 新的"/>
 
 </LinearLayout>
