@@ -260,6 +260,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
@@ -273,10 +274,11 @@
       <screen x="-64" y="-1080" width="1920" height="1080" />
     </state>
     <state x="411" y="-965" key="CommitChangelistDialog2/-64.-1080.1920.1080/0.0.1792.1120@-64.-1080.1920.1080" timestamp="1628579111230" />
-    <state x="36" y="-980" width="1720" height="880" key="DiffContextDialog" timestamp="1628579048561">
+    <state x="36" y="-980" width="1720" height="880" key="DiffContextDialog" timestamp="1628591303851">
       <screen x="-64" y="-1080" width="1920" height="1080" />
     </state>
     <state x="36" y="-980" width="1720" height="880" key="DiffContextDialog/-64.-1080.1920.1080/0.0.1792.1120@-64.-1080.1920.1080" timestamp="1628579048561" />
+    <state x="36" y="-980" width="1720" height="880" key="DiffContextDialog/-64.-1080.1920.1080/0.23.1792.1006@-64.-1080.1920.1080" timestamp="1628591303851" />
     <state x="-64" y="-881" key="GitRewordDialog" timestamp="1628579152989">
       <screen x="-64" y="-1080" width="1920" height="1080" />
     </state>
