@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public UpdateConfig getUpdateConfig() {
-        int drawableRes = R.drawable.status_icon;
+        int drawableRes = R.drawable.btn_appupdate_bind_check;
 
         String authority = "com.mars.android.update";
 
