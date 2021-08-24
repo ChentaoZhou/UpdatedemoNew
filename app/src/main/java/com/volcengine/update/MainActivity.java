@@ -11,9 +11,7 @@ import com.volcengine.mars.update.OnUpdateStatusChangedListener;
 import com.volcengine.mars.update.VEUpdate;
 import com.volcengine.mars.update.UpdateConfig;
 import com.volcengine.mars.update.UpdateDialogStyle;
-import com.volcengine.mars.update.UpdateLocalStrategy;
 import com.volcengine.mars.update.UpdateStrategyInfo;
-import com.volcengine.AppCommonContextImpl;
 import com.volcengine.mars.permissions.PermissionsManager;
 import java.lang.ref.WeakReference;
 
@@ -21,8 +19,6 @@ public class MainActivity extends AppCompatActivity {
     private static final String TAG = "UpdateHomeActivity";
     private Button mButton;
     private UpdateStrategyInfo updateStrategyInfo;
-    private UpdateLocalStrategy updateLocalStrategy;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,7 +29,6 @@ public class MainActivity extends AppCompatActivity {
         mButton = findViewById(R.id.updateButton);
         UpdateConfig updateConfig = getUpdateConfig();
         VEUpdate.initialize(updateConfig);
-        VEUpdate.setCheckSignature(false);
         mButton.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(final View v) {
@@ -77,20 +72,6 @@ public class MainActivity extends AppCompatActivity {
             updateStrategyInfo = new UpdateStrategyInfo();
         }
         updateStrategyInfo.currentActivity = new WeakReference<>(this);
-        updateStrategyInfo.updateNewStrategyEnable = true;
-
-        if (updateStrategyInfo.updateDelayTime <= 0) {
-            updateStrategyInfo.updateDelayTime = 1 * 24 * 3600 * 1000L;
-        } else if (updateStrategyInfo.updateDelayTime >= 6 * 24 * 3600 * 1000L) {
-            updateStrategyInfo.updateDelayTime = 6 * 24 * 3600 * 1000L;
-        } else {
-            updateStrategyInfo.updateDelayTime *= 2;
-        }
-        if (updateLocalStrategy == null) {
-            updateLocalStrategy = new UpdateLocalStrategy();
-        }
-        updateLocalStrategy.updateFormalStrategyEnable = true;
-        updateLocalStrategy.updateDialogBgDownloadCheckboxText = "这里设置了下次自动下载";
         return new UpdateConfig.Builder()
                 .setAppCommonContext(new AppCommonContextImpl())
                 .setIUpdateForceExit(new UpdateForceExitImpl())

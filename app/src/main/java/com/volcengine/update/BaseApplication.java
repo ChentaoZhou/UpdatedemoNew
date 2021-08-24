@@ -1,4 +1,4 @@
-package com.volcengine;
+package com.volcengine.update;
 
 import android.app.ActivityManager;
 import android.app.ActivityManager.RunningAppProcessInfo;

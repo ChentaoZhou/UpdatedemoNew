@@ -1,4 +1,4 @@
-package com.volcengine;
+package com.volcengine.update;
 
 import android.content.Context;
 import com.volcengine.mars.update.AbsAppCommonContext;
@@ -32,10 +32,8 @@ public class AppCommonContextImpl extends AbsAppCommonContext {
 
     @Override
     public String getDeviceId() {
-//        DeviceWrapper deviceService = new DeviceWrapper();
-//        return deviceService.getDeviceID();
-
-        return "679324334";
+        DeviceWrapper deviceService = new DeviceWrapper();
+        return deviceService.getDeviceID();
     }
 
     @Override
